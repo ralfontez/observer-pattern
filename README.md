@@ -14,7 +14,3 @@ You need to install Code Blocks 16.01
 
 You can simply copy the main.cpp file into a new code blocks project
 
-
-## Acknowledgments
-
-* Cristian Lopez del Alamo for his support and inspiration. 
